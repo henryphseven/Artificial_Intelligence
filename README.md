@@ -2,7 +2,7 @@ Project Name: Wumpus World
 
 Original source code: https://github.com/riyt/Wumpus_World_Student
 
-Project Description: The Wumpus World is a cave consisting of rooms connected by passageways. The project requires us to implement a Knowledge-based AI agent (i.e., MyAI), which is able to find gold and climb out of the cave. Please refer to "Student_Booklet.pdf" for more details.
+Project Description: The Wumpus World is a cave consisting of rooms connected by passageways. We are required to implement a Knowledge-based AI agent (i.e., MyAI), which is able to find gold and climb out of the cave. Please refer to "Student_Booklet.pdf" for more details.
 
 Project Report: Please refer to "project report.pdf"
 
